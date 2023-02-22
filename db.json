@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "seller": [
+    {
+      "id": 1,
+      "name": "priya darling",
+      "email": "priyatayde@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "rupesh dhamdhere sardar",
+      "email": "rupesh@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "raj gaikwad",
+      "email": "raj@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ]
+}
